@@ -1,1 +1,1 @@
-AAALQ api effort
+AAALQ API -> NestJs + Graphql
